@@ -42,16 +42,16 @@ from sklearn.model_selection import GridSearchCV
 
 ## Screenshots
 ### Correlation among variables
-![co](./img2/Picture1.png)
+![co](./img/Pic1.png)
 
 ### Heatmap of correlation
-![Heatmap](./img2/Picture2.png)
+![Heatmap](./img/Pic2.png)
 
 ### Heatmap of Confusion matrix (Using scaled data and best parameters)
-![CM](./img2/Picture3.png)
+![CM](./img/Pic3.png)
 
 ### Accuracy measures
-![AM](./img2/Picture4.png)
+![AM](./img/Pic4.png)
 
 ## Process
 
