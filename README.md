@@ -41,15 +41,17 @@ from sklearn.model_selection import GridSearchCV
 ```
 
 ## Screenshots
-### Logistic Regression Model
-![LRM](./img/Picture4.png)
+### Correlation among variables
+![co](./img2/Picture1.png)
 
-### Gains chart & lift chart
-![Charts](./img/Picture2.png)
+### Heatmap of correlation
+![Heatmap](./img2/Picture2.png)
 
-### Decision Tree
-![Decision Tree](./img/Picture1.png)
+### Heatmap of Confusion matrix (Using scaled data and best parameters)
+![CM](./img2/Picture3.png)
 
+### Accuracy measures
+![AM](./img2/Picture4.png)
 
 ## Process
 
